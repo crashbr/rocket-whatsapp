@@ -1,0 +1,21 @@
+{
+    "rocket":"",
+    "whatsapp":"",
+    "whatsappSession" : "",
+    "whatsappApi" : "",
+    "whatsappToken": "",
+    "ips": "[]",
+    "rotaEntrada":"",
+    "rotaSaida":"",
+    "agentePadrao":"",
+    "deptoTriagem":"",
+    "assinaWhats": "",
+    "authToken" : "",
+    "authId": "",
+    "whatsappRocketRoom": "",
+    "notificaTriagem": "",
+    "mailHost": "",
+    "mailPort" : "",
+    "mailUser" : "",
+    "mailPass" : ""
+}

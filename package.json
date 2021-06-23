@@ -1,0 +1,32 @@
+{
+  "name": "rocketchat",
+  "version": "1.0.0",
+  "description": "Integracao entre RocketChat e API do Whatsapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crashbr/rocket-whatsapp.git"
+  },
+  "author": "Erik Silva Sobral",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crashbr/rocket-whatsapp/issues"
+  },
+  "homepage": "https://github.com/crashbr/rocket-whatsapp#readme",
+  "dependencies": {
+    "@open-wa/wa-decrypt": "^3.1.0",
+    "axios": "^0.21.1",
+    "emoji-toolkit": "^6.5.1",
+    "express": "^4.17.1",
+    "mime-types": "^2.1.30",
+    "mongoose": "^5.12.0",
+    "node-async-locks": "^2.0.0",
+    "nodemailer": "^6.5.0",
+    "pm2": "^4.5.5",
+    "request": "^2.88.2"
+  }
+}
